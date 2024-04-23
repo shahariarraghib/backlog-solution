@@ -45,7 +45,7 @@ const Brands = () => {
     ],
   };
   return (
-    <section className="pt-16">
+    <section className="pt-16 ">
       <div className="container">
         <SectionTitle
           title="Technologies"

@@ -5,7 +5,10 @@ import featuresData from "./featuresData";
 const Features = () => {
   return (
     <>
-      <section id="features" className="py-16 md:py-20 lg:py-28">
+      <section
+        id="features"
+        className="bg-gray-light py-16 dark:bg-[#121723] md:py-20 lg:py-28"
+      >
         <div className="container">
           <SectionTitle
             title="Our services"
