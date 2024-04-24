@@ -23,6 +23,8 @@ const Features = () => {
             ))}
           </div>
         </div>
+
+        <div className=" right-0 top-0 z-[-1] mt-0 opacity-30 lg:opacity-100"></div>
       </section>
     </>
   );
